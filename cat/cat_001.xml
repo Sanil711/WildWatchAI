@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_001.jpg</filename>
+	<path>S:\Python\Python_Projects\WildWatchAI\TFODCourse\Tensorflow\workspace\images\collectedimages\cat\cat_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1068</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>120</ymin>
+			<xmax>740</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+</annotation>
