@@ -1,0 +1,26 @@
+<annotation>
+	<folder>leopard</folder>
+	<filename>leopard_001.jpg</filename>
+	<path>S:\Python\Python_Projects\WildWatchAI\TFODCourse\Tensorflow\workspace\images\collectedimages\leopard\leopard_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>126</ymin>
+			<xmax>764</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>
