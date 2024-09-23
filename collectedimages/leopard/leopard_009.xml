@@ -1,0 +1,26 @@
+<annotation>
+	<folder>leopard</folder>
+	<filename>leopard_009.jpg</filename>
+	<path>D:\apps\Desktop\wildwatch ai\collectedimages\leopard\leopard_009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leopord</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>570</ymin>
+			<xmax>3000</xmax>
+			<ymax>1788</ymax>
+		</bndbox>
+	</object>
+</annotation>
