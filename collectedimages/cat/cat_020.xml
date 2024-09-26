@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_020.jpg</filename>
+	<path>C:\Users\Yadnesh\Desktop\WildWatchAI\collectedimages\cat\cat_020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>67</ymin>
+			<xmax>487</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
